@@ -1,0 +1,21 @@
+name: MinecraftSpigotPlugin
+version: '1.0-SNAPSHOT'
+main: fr.skkyz3r.minecraftspigotplugin.Main
+api-version: 1.19
+authors: [ SKKYZ3R ]
+description: A 1.19 test plugin
+website: https://skkyz3r.fr
+commands:
+  gm:
+    description: Set your gamemode ancien version like. 0 = Survival, 1 = Creative, 2 = Adventure, 3 = Spectator
+    aliases:
+      - gamemode
+  fly:
+    description: Volez librement. Comme un oiseau.
+    usage: /<command>
+  vanish:
+    description: Vanishes you from the world
+  suicide:
+    description: Kill yourself
+  bangui:
+    description: Open the Ban GUI

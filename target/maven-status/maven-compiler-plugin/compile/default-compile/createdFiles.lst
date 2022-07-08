@@ -1,0 +1,16 @@
+fr\skkyz3r\minecraftspigotplugin\commands\FlyCommand.class
+fr\skkyz3r\minecraftspigotplugin\tabcompletions\GmTabCompletion.class
+fr\skkyz3r\minecraftspigotplugin\listeners\BanInventoryListener$1.class
+fr\skkyz3r\minecraftspigotplugin\systems\menu\PaginatedMenu.class
+fr\skkyz3r\minecraftspigotplugin\commands\BanGUICommand.class
+fr\skkyz3r\minecraftspigotplugin\systems\menu\PlayerMenuUtility.class
+fr\skkyz3r\minecraftspigotplugin\listeners\BanInventoryListener.class
+fr\skkyz3r\minecraftspigotplugin\commands\SuicideCommand.class
+fr\skkyz3r\minecraftspigotplugin\systems\menu\menus\SuicideConfirmMenu$1.class
+fr\skkyz3r\minecraftspigotplugin\listeners\MenuListener.class
+fr\skkyz3r\minecraftspigotplugin\systems\menu\menus\SuicideConfirmMenu.class
+fr\skkyz3r\minecraftspigotplugin\commands\GmCommand.class
+fr\skkyz3r\minecraftspigotplugin\Main.class
+fr\skkyz3r\minecraftspigotplugin\commands\VanishCommand.class
+fr\skkyz3r\minecraftspigotplugin\systems\menu\Menu.class
+fr\skkyz3r\minecraftspigotplugin\utils\BanMenuUtils.class
